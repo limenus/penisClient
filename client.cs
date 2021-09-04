@@ -4,7 +4,7 @@ namespace EpicHacks
 {
    class troll 
    {
-      static void Main(string[], args) 
+      static void Main(string[] args) 
       {
          notAClient(); 
       }
